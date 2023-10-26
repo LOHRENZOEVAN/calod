@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "430276037891",
+    "project_id": "calod-36318",
+    "storage_bucket": "calod-36318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430276037891:android:1b2ac6726e50aa961d6d36",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430276037891-0jhubu8g1f1isu07uth8mp1bnqgnb3ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASu2vZxZCdJ18pwWTB28krP6hy4ZRMwJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430276037891-0jhubu8g1f1isu07uth8mp1bnqgnb3ij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "430276037891-ot23sf5b608q4b61ru6eub8tu8bqtrqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Robin.Do"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
